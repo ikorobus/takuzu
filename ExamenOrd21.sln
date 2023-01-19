@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenOrd21", "ExamenOrd21\ExamenOrd21.csproj", "{376BA106-5441-412F-8619-14BDF1C2888F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376BA106-5441-412F-8619-14BDF1C2888F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376BA106-5441-412F-8619-14BDF1C2888F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376BA106-5441-412F-8619-14BDF1C2888F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376BA106-5441-412F-8619-14BDF1C2888F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52043214-2CF7-4941-8B85-DB0A8B04CE51}
+	EndGlobalSection
+EndGlobal

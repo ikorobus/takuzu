@@ -1,0 +1,15 @@
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\bin\Debug\net6.0\ExamenOrd21.exe
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\bin\Debug\net6.0\ExamenOrd21.deps.json
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\bin\Debug\net6.0\ExamenOrd21.runtimeconfig.json
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\bin\Debug\net6.0\ExamenOrd21.dll
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\bin\Debug\net6.0\ExamenOrd21.pdb
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.csproj.AssemblyReference.cache
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.AssemblyInfoInputs.cache
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.AssemblyInfo.cs
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.csproj.CoreCompileInputs.cache
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.dll
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\refint\ExamenOrd21.dll
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.pdb
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ExamenOrd21.genruntimeconfig.cache
+E:\Programas\OneDrive - Universidad Complutense de Madrid (UCM)\UCM\fp\examenes\Proyecto\ExamenOrd21\ExamenOrd21\obj\Debug\net6.0\ref\ExamenOrd21.dll
